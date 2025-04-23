@@ -9,9 +9,7 @@
 -Compare mental health care statistics between states (if applicable) or at the national level.
 5. Uncertainty and Confidence Intervals
 -Assess the reliability of the reported values by analyzing the confidence intervals (LowCI, HighCI).
-6. Detect Potential Bias or Suppression
--Check for entries marked with the Suppression Flag to understand where data may be incomplete or confidential.
-7. Correlation Insights
+6. Correlation Insights
 Examine correlations between:
 Age group and mental health care access.
 Phase/time period and treatment rates.
